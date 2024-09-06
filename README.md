@@ -80,9 +80,6 @@ The project includes 13 visualizations that explore relationships between variab
 
 This project provides actionable insights into hotel booking patterns, cancellations, and revenue optimization strategies. By understanding and acting on these insights, hotel managers can improve operational efficiency, increase customer satisfaction, and drive revenue growth.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
